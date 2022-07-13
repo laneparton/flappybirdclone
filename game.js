@@ -18,7 +18,7 @@ pipeSouth.src = "images/pipeSouth.png";
 let difficultySettings = {
   pipeGap: 85,
   pipeSpacing: 50,
-  speed: 1,
+  speed: 1, // TODO: add support for speed difficulty
 };
 
 let bird = {
